@@ -1,0 +1,51 @@
+time,Room 1 532,Room 1 800,Room 1 1064,Room 1 Comments,Room 2 532,Room 2 800,Room 2 1064,Room 2 Comments,Room 3 532,Room 3 800,Room 3 1064,Room 3 Comments,Room 4 532,Room 4 800,Room 4 1064,Room 4 Comments,Room 5 532,Room 5 800,Room 5 1064,Room 5 Comments
+27-07-2021 09:39:46,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,,Y,Y,Y,,N/A,N/A,N/A,
+27-07-2021 09:43:16,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Being Installed,Y,Y,Y,,N/A,N/A,N/A,
+27-07-2021 11:02:51,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Being Installed,Y,Y,Y,,N/A,N/A,N/A,Being Installed
+27-07-2021 11:03:20,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Being Installed,Y,Y,Y,,N/A,N/A,N/A,
+27-07-2021 11:03:30,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Being Installed,Y,Y,Y,,N/A,N/A,N/A,Test
+27-07-2021 12:21:20,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Being Installed,Y,Y,Y,,Y,N/A,Y,Test
+27-07-2021 12:22:20,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Being Installed,Y,Y,Y,,Y,N/A,Y,- Dense scan patterns
+28-07-2021 09:13:35,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,Y,Y,Y,,Y,N/A,Y,- Dense scan patterns
+29-07-2021 07:47:01,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,Y,Y,Y,,Y,N/A,Y,- Dense scan patterns
+29-07-2021 09:54:31,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,Y,Y,Y,,Y,N/A,Y,
+29-07-2021 10:21:11,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,Y,Y,Y,,Y,N/A,Y,- Dense scan patterns
+30-07-2021 07:51:51,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,Y,Y,Y,,Y,N/A,Y,- Dense scan patterns
+30-07-2021 10:30:41,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,N,Y,N,Water  temp. too low,Y,N/A,Y,- Dense scan patterns
+30-07-2021 11:01:31,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,N,Y,N,Only,Y,N/A,Y,- Dense scan patterns
+30-07-2021 11:30:01,Y,Y,Y,,N/A,N/A,N/A,Out of Order,N/A,N/A,N/A,Trouble Shooting,Y,Y,Y,,Y,N/A,Y,- Dense scan patterns
+05-08-2021 14:32:09,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,Dense scan patterns
+06-08-2021 08:27:04,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,Test,Y,Y,Y, ,Y,N/A,Y,- Dense scan patterns
+06-08-2021 13:52:04,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,Dense scan patterns
+06-08-2021 16:19:04,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense scan patterns
+07-08-2021 07:51:04,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y, Dense scan patterns
+09-08-2021 14:03:04,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,Dense scan patterns
+10-08-2021 18:34:04,N,Y,N,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,Dense scan patterns
+11-08-2021 11:06:04,N,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y, Dense scan patterns
+11-08-2021 13:39:04,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense scan patterns
+11-08-2021 14:30:19,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,Dense scan patterns
+11-08-2021 17:16:33,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 17:30:33,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 17:45:53,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 17:53:24,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 18:08:45,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 18:09:09,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 18:19:49,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 18:29:07,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+11-08-2021 18:36:08,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:05:27,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:17:53,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:30:42,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:34:28,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:40:24,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:46:05,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:51:17,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 14:57:08,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 15:09:29,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 15:10:55,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 15:13:12,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 15:16:14,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 16:13:34,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 16:15:43,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 16:27:28,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
+12-08-2021 16:50:44,Y,Y,Y,,N/A,N/A,N/A,,N/A,N/A,N/A,,Y,Y,Y, ,Y,N/A,Y,- Dense Scan Pattern
